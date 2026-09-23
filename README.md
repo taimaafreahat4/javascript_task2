@@ -1,4 +1,4 @@
-# JavaScript Task 1
+# JavaScript task 1 +task 2
 
 ## Description
 
